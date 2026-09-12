@@ -5,7 +5,7 @@ AI-powered Telecom Customer Churn Analysis and Prediction using Python, Machine 
 
 An end-to-end Data Analytics and Machine Learning project that analyzes telecom customer behavior and predicts customer churn using the IBM Telco Customer Churn dataset.
 
----
+
 
 ## 📌 Project Overview
 
@@ -18,7 +18,7 @@ The project includes:
 * 🐍 Data Cleaning & Machine Learning using Python
 * 📊 Business Insights for Customer Retention
 
----
+
 
 ## 🛠️ Tools & Technologies
 
@@ -30,7 +30,7 @@ The project includes:
 * Google Colab
 * Power BI
 
----
+
 
 ## 📂 Dataset
 
@@ -42,7 +42,7 @@ The project includes:
 
 **Machine Learning Dataset:** Customer_Churn_PowerBI.csv
 
----
+
 
 ## 📊 Dashboard 1 — Telecom Customer Churn Analysis Dashboard
 
@@ -61,7 +61,7 @@ The project includes:
 * Fiber Optic users have a higher churn rate.
 * Electronic Check customers churn the most.
 
----
+
 
 ## 🤖 Dashboard 2 — Machine Learning Telecom Customer Churn Prediction Dashboard
 
@@ -79,7 +79,7 @@ The project includes:
 * High-risk customers identified using Machine Learning.
 * Customer churn prediction based on telecom customer features.
 
----
+
 
 ## 🔄 Project Workflow
 
@@ -92,7 +92,7 @@ The project includes:
 7. Power BI Dashboard Development
 8. Business Insight Generation
 
----
+
 
 ## 📁 Repository Structure
 
@@ -104,7 +104,7 @@ Images/
 README.md
 ```
 
----
+
 
 ## 👩‍💻 Author
 
